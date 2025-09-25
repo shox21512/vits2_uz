@@ -1,0 +1,20 @@
+# torch
+# torchvision
+# torchaudio
+# torchtext
+
+phonemizer
+inflect
+pandas
+
+numpy
+numba
+matplotlib
+
+tensorboard
+tensorboardX
+
+tqdm
+PyYAML
+ipykernel
+pytorch_lightning
